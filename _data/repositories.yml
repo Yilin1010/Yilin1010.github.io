@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - Yilin1010
+  # - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Yilin1010/Machine_Unlearning_Algorithms
+  - Yilin1010/Selective-Gradient-Unlearning-SGU
+  - Yilin1010/efficient_ML

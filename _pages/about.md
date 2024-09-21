@@ -2,24 +2,49 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi there 👋
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### About Me
+My name is [Yilin (yee-lin) Tang](https://yilin1010.github.io/Personal_Website/). I am a graduate computer science student at Northesatern University, currently interested in preserving and privacy-preserving AI and Interpretability of AI.
+
+I am planning to become Machine Learning engineer after graduation in 2025. 
+
+Please feel free to contact me!😊
+
+
+
+### My Projects
+
+- [machine unlearning in deep learning](https://github.com/Yilin1010/Selective-Gradient-Unlearning-SGU): Unlearning Algorithms and Evaluation Metrics. 
+ <!-- [Colab Demo]() -->
+
+- [effcient ML](https://github.com/Yilin1010/effcient_ML): A framwork of pruning and evaluate the efficiency of Vision Transformer.
+
+- [real-time computer vision system (OpenCV, C++, PyTorch)](https://github.com/Yilin1010/Yilin1010-Pattern-Recognition-Computer-Vision-Fall-2023): Object Recognition system, AR system, video filters.
+
+
+
+
+
+### Get in Touch
+- You can reach me at <a href="mailto:&#121;&#111;&#108;&#049;&#054;&#049;&#055;&#064;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#046;&#099;&#111;&#109;">&#121;&#111;&#108;&#049;&#054;&#049;&#055;&#064;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#046;&#099;&#111;&#109;</a>
+- [LinkedIn](https://www.linkedin.com/in/yilin-tang-26b3391a7/)
+
