@@ -36,7 +36,7 @@ Please feel free to contact me!😊
 - [machine unlearning in deep learning](https://github.com/Yilin1010/Selective-Gradient-Unlearning-SGU): Unlearning Algorithms and Evaluation Metrics. 
  <!-- [Colab Demo]() -->
 
-- [effcient ML](https://github.com/Yilin1010/effcient_ML): A framwork of pruning and evaluate the efficiency of Vision Transformer.
+- [effcient ML](https://github.com/Yilin1010/efficient_ML): A framwork of pruning and evaluate the efficiency of Vision Transformer.
 
 - [real-time computer vision system (OpenCV, C++, PyTorch)](https://github.com/Yilin1010/Yilin1010-Pattern-Recognition-Computer-Vision-Fall-2023): Object Recognition system, AR system, video filters.
 
