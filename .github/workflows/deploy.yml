@@ -111,7 +111,7 @@ jobs:
       # added: Debugging step: Collect build artifacts if there is a failure
       - name: Upload Jekyll Build Artifacts
         if: failure()
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: failed-jekyll-build
           path: _site
